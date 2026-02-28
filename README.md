@@ -24,7 +24,7 @@ Includes MQTT remote control, web configuration interface, OTA updates, and hard
 - https://www.aliexpress.com/item/1005008600008743.html?spm=a2g0o.productlist.main.29.3ab1y4zyy4zymY&algo_pvid=ff195084-5b32-4c09-a6aa-325568c7b2b3&algo_exp_id=ff195084-5b32-4c09-a6aa-325568c7b2b3-28&pdp_ext_f=%7B%22order%22%3A%2248%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21AUD%2113.05%219.79%21%21%219.13%216.85%21%4021033d9d17722355207238008e80c6%2112000049463553356%21sea%21AU%21100028349%21X%211%210%21n_tag%3A-29919%3Bd%3Ac6f2ab8c%3Bm03_new_user%3A-29895&curPageLogUid=qNV41cK0FuSu&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008600008743%7C_p_origin_prod%3A
 - 
 - Relay module (active LOW or HIGH – configurable)
-- Optional: status LED on GPIO 23 (with 220–330 Ω resistor to GND)
+- Optional: status LED on GPIO 23 
 - GPIO 0 usually already has the BOOT button
 
 ## Wiring
