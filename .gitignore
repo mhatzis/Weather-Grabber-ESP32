@@ -1,0 +1,31 @@
+# Arduino / PlatformIO build artifacts
+.pio/
+build/
+*.elf
+*.bin
+*.eep
+*.hex
+*.eeprom
+*.obj
+*.o
+*.d
+*.lst
+*.map
+*.sym
+*.lss
+*.eep
+*.srec
+*.eeprom
+.cache/
+.vscode/
+
+# Temporary files
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Secrets (never commit real credentials)
+secrets.h
+wifi_credentials.h
