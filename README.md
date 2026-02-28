@@ -75,6 +75,4 @@ MIT License – see [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Project assisted by Grok (xAI) – thank you!
-
 Happy watering (or not watering) :)
