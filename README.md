@@ -56,7 +56,7 @@ Access settings at http://<device-ip>/settings
 `irrigation/control/command/relay` → "on", "off", "auto", "weather"
 
 **Status**  
-`irrigation/control/status` → "allowed" / "blocked"  
+`irrigation/control/status` → "Watering allowed" / "Watering Paused"  
 `irrigation/control/status/rain_enabled` → "true" / "false"  
 `irrigation/control/status/relay` → "on" / "off" / "auto"  
 `irrigation/control/rain_risk` → "high" / "low"  
